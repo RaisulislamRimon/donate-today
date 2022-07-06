@@ -212,6 +212,8 @@ h2 {
   color: white;
   padding: 16px 50px;
   border-radius: 0 5px 5px 0;
+  font-size: 18px;
+  text-decoration: none;
 }
 .form-things {
   background-color: #fff4d6;
