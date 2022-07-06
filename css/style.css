@@ -144,7 +144,17 @@ h2 {
 }
 .donate-plan-div {
   /* border: 1px solid red; */
+  border-radius: 5px;
   text-align: left;
-  padding: 20px;
+  padding: 30px;
   margin: 50px;
+}
+.first-donate-plan {
+  background-color: #edf5f6;
+}
+.second-donate-plan {
+  background-color: #ffeeee;
+}
+.third-donate-plan {
+  background-color: #fff4d6;
 }
