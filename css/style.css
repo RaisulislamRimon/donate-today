@@ -19,6 +19,18 @@ body {
   text-align: center;
 }
 
+.section-paragraph {
+  width: 50%;
+  margin: 0 auto;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 40px;
+  color: white;
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  color: dimgray;
+  line-height: 1.5;
+}
+
 h1 {
   font-family: "Inter", sans-serif;
   color: white;
@@ -57,10 +69,12 @@ h1 {
   text-align: center;
 }
 
-.donate h2 {
+/* .donate h2 { */
+h2 {
   font-size: 40px;
   font-family: "Inter", sans-serif;
   font-weight: 900;
+  margin-top: 93px;
 }
 .donate p {
   font-size: 16px;
@@ -86,4 +100,42 @@ h1 {
   color: dimgray;
   padding: 40px;
   font-weight: 600;
+}
+
+.donate-option-highlight {
+  border: 2px solid tomato;
+  border-radius: 5px;
+  margin: 10px;
+  background: #f7f7f7;
+  padding: 35px 22px;
+  margin-top: -2px;
+  /* color: tomato; */
+}
+
+.donate-custom {
+  text-align: center;
+}
+
+#donate-input {
+  width: 55%;
+  margin: 0 auto;
+  text-align: center;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #bbb7b7;
+  font-size: large;
+  padding: 10px;
+  display: block;
+  margin-bottom: 50px;
+}
+
+.donate-btn {
+  text-align: center;
+}
+
+#donate-plan {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
 }
