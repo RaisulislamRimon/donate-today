@@ -143,7 +143,8 @@ h2 {
   display: flex;
 }
 .donate-plan-div {
-  border: 1px solid red;
+  /* border: 1px solid red; */
+  text-align: left;
   padding: 20px;
   margin: 50px;
 }
