@@ -3,9 +3,14 @@ body {
 }
 
 .top-banner {
-    width: 50%;
+    /* width: 50%; */
     text-align: center;
     margin: 0 auto;
+}
+
+h1 {
+    font-size: 65px;
+    line-height: 78.66px;
 }
 
 /* 
