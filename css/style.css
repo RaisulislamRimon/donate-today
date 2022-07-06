@@ -159,9 +159,65 @@ h2 {
   background-color: #fff4d6;
 }
 
+.donate-plan-three-div h3 {
+  font-size: 25px;
+}
+
 .donate-plan-div p {
   font-size: 16px;
   font-family: "Inter", sans-serif;
   color: dimgray;
   line-height: 1.5;
+}
+
+#update {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+#update p {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  color: dimgray;
+  line-height: 1.5;
+}
+/* #update input {
+  text-decoration: none;
+  font-family: "Inter", sans-serif;
+  background-color: tomato;
+  color: white;
+  padding: 16px 16px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 600;
+  cursor: pointer;
+} */
+.update-email {
+  display: flex;
+  justify-content: center;
+  height: 53px;
+  /* background-color: #fff4d6; */
+}
+.update-email input {
+  border: none;
+  background-color: #e9e1e1;
+  width: 232px;
+  padding: 20px;
+  font-size: 17px;
+  border-radius: 5px 0 0 5px;
+}
+.submit-btn {
+  background-color: tomato;
+  color: white;
+  padding: 16px 50px;
+  border-radius: 0 5px 5px 0;
+}
+.form-things {
+  background-color: #fff4d6;
+  /* background-color: red; */
+  padding: 110px 140px;
+  border-radius: 5px;
+  padding-bottom: 167px;
+  margin: 0 180px;
 }
