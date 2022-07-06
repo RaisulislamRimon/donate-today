@@ -221,3 +221,14 @@ h2 {
   padding-bottom: 167px;
   margin: 0 180px;
 }
+#footer {
+  background-color: #0b0d17;
+  color: white;
+  text-align: center;
+  padding: 40px;
+  font-size: 20px;
+}
+#footer h3 {
+  color: tomato;
+  font-size: 30px;
+}
