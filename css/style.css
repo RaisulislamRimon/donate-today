@@ -158,3 +158,10 @@ h2 {
 .third-donate-plan {
   background-color: #fff4d6;
 }
+
+.donate-plan-div p {
+  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  color: dimgray;
+  line-height: 1.5;
+}
