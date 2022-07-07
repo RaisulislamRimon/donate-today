@@ -100,6 +100,7 @@ h2 {
   color: dimgray;
   padding: 40px;
   font-weight: 600;
+  font-family: "inter";
 }
 
 .donate-option-highlight {
@@ -208,6 +209,7 @@ h2 {
   /* background-color: #fff4d6; */
 }
 .update-email input {
+  font-family: 'Roboto', sans-serif;
   border: none;
   background-color: #e9e1e1;
   width: 232px;
